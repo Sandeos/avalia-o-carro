@@ -47,6 +47,7 @@ def cadastrar_cliente() -> cliente.Cliente:
 
 def cadastrar_servico() -> cadastrar_revisao:
     
+git push --set-upstream origin main
 
 
 
